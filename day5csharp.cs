@@ -437,7 +437,7 @@ given ("some item" in the example). If the user enters just “—“ then the p
 clear the current list. Your program can start each iteration through its loop with the
 following instruction:
 Console.WriteLine("Enter command (+ item, - item, or -- to clear)):");
-*/
+
 using System;
 namespace day5csharp
 {
@@ -470,7 +470,7 @@ namespace day5csharp
 
 
 
-/*
+
 
 3. Write a method that calculates all prime numbers in given range and returns them as array
 of integers
